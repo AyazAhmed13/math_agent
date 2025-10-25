@@ -1,0 +1,6 @@
+{"question": "Solve x^2 - 5x + 6 = 0", "solution": "Factor: (x-2)(x-3)=0 so x=2 or x=3."}
+{"question": "Differentiate f(x)=x^3", "solution": "f'(x)=3x^2."}
+{"question": "Integrate sin x dx", "solution": "∫ sin x dx = -cos x + C."}
+{"question": "Compute the limit as x→0 of (sin x)/x", "solution": "The limit is 1."}
+{"question": "Find the derivative of e^x", "solution": "d/dx e^x = e^x."}
+{"question": "Integrate x e^x dx", "solution": "∫ x e^x dx = e^x(x - 1) + C."}
